@@ -127,6 +127,7 @@ python train_models.py
 # Run Streamlit app
 streamlit run app.py
 ```
+<img width="936" height="521" alt="image" src="https://github.com/user-attachments/assets/f5e99bce-1e92-4ddd-b197-7aac3714fa91" />
 
 ---
 
